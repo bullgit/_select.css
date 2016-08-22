@@ -1,0 +1,4 @@
+.select {
+  -webkit-user-select: all; /* Covers Blink-land & Firefox */
+  user-select: all; /* Someday */
+}
